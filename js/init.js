@@ -153,7 +153,7 @@
 
 	      type: "POST",
 //inc/sendEmail.php
-	      url: "benjiab@hotmail.com",
+	      url: "inc/sendEmail.php",
 	      data: data,
 	      success: function(msg) {
 
