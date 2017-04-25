@@ -152,7 +152,6 @@
       $.ajax({
 
 	      type: "POST",
-//inc/sendEmail.php
 	      url: "inc/sendEmail.php",
 	      data: data,
 	      success: function(msg) {
